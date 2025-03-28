@@ -36,11 +36,5 @@ To deploy this project on AWS, follow these steps:
 5. **Configure AWS CloudWatch** for logging and monitoring.  
 6. **Deploy AWS Lambda functions** to automate required processes.  
 
-## **Contributing**
-Contributions are welcome! Please create a pull request with any improvements or feature additions.
 
-## **License**
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
----
-Happy coding! 🚀
