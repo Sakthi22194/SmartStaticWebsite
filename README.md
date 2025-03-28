@@ -15,11 +15,11 @@ This project involves hosting a **secure, scalable, and high-performance** smart
 6. **AWS Lambda** – Automates backend processes such as log processing, security rule updates, and event-driven tasks.  
 
 ## **Key Features & Benefits**
-✅ **Scalability:** Serverless architecture ensures automatic scaling to handle variable traffic.  
-✅ **Security:** AWS WAF safeguards against threats, and CloudFront provides DDoS protection.  
-✅ **Performance:** Low-latency content delivery with CloudFront’s global edge locations.  
-✅ **Monitoring & Automation:** CloudWatch provides real-time logs and alerts, while Lambda automates tasks.  
-✅ **Data Processing:** Kinesis captures and analyzes user activity for insights.  
+ **Scalability:** Serverless architecture ensures automatic scaling to handle variable traffic.  
+ **Security:** AWS WAF safeguards against threats, and CloudFront provides DDoS protection.  
+ **Performance:** Low-latency content delivery with CloudFront’s global edge locations.  
+ **Monitoring & Automation:** CloudWatch provides real-time logs and alerts, while Lambda automates tasks.  
+ **Data Processing:** Kinesis captures and analyzes user activity for insights.  
 
 ## **Use Cases**
 - Hosting marketing websites, blogs, and product landing pages.  
